@@ -1,3 +1,3 @@
-# Assingment2UniMAP
+# Assingment2 UniMAP
 
 Assignment 2 for UniMAP Diploma Year 1 Sem 1 Computer Engineering
